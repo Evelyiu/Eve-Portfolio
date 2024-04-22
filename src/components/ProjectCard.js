@@ -8,7 +8,7 @@ export const ProjectCard = ({ title, description, imgUrl, prjUrl }) => {
         <div className="proj-txtx">
           <h4>{title}</h4>
           <span>{description}</span>
-          <p>View <a href={prjUrl}>Here</a></p>
+          <p className="text-white">View <a href={prjUrl} target="_blank" rel = "noopener noreferrer">Here</a></p>
         </div>
       </div>
     </Col>

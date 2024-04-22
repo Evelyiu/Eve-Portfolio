@@ -22,11 +22,13 @@ export const Projects = () => {
       title: "T2S - Text to Speech",
       description: "Chrome Extension | JS | API",
       imgUrl: projImg2,
+      prjUrl:"https://evelyiu.github.io/Google-Extension_T2S/",
     },
     {
       title: "Weather App",
       description: "JS | API | TailwindCSS",
       imgUrl: projImg3,
+      prjUrl:"https://evelyiu.github.io/Weather-App/"
     },
     {
       title: "Drawing Board",
