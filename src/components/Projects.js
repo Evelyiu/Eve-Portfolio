@@ -36,6 +36,7 @@ export const Projects = () => {
       title: "Drawing Board",
       description: "JS | Canvas",
       imgUrl: projImg4,
+      prjUrl:"https://evelyiu.github.io/Canvas-Drawing/"
     },
     
   ];
